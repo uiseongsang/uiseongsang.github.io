@@ -9,7 +9,7 @@ categories: dayily_life
     짧고 반복되는 구간이 많아서 그런가 보다.
     나중엔 성경구절 암송 포스팅 하는 날도 기달려 진다! 
 
-![image](https://drive.google.com/open?id=1GR7gWh1w58ovRYBBYXC47VbKvek8_mNq)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmcHi0njU7fmIq_tG8_RqcrxMI5hDi-przwtANIqf_Av__jV2)
 
 
 # English version
