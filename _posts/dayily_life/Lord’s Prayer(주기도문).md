@@ -4,6 +4,14 @@ date: 2018-08-18 17:30:28 -0400
 categories: dayily_life
 ---
 
+# 주기도문 암송
+    주기도문도 사도신경처럼 외우는데 오래 걸리진 않았다
+    짧고 반복되는 구간이 많아서 그런가 보다.
+    나중엔 성경구절 암송 포스팅 하는 날도 기달려 진다! 
+
+![image](https://drive.google.com/open?id=1GR7gWh1w58ovRYBBYXC47VbKvek8_mNq)
+
+
 # English version
     Our father, who art in heaven,
     Hallowed be thy name,

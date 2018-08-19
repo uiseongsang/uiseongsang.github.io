@@ -4,6 +4,14 @@ date: 2017-10-20 08:26:28 -0400
 categories: dayly_life, Apostle's_Creed
 ---
 
+#  사도신경 암송
+    집에서 매일 가정예배를 드리는데 어머니께서 
+    사도신경, 주기도문은 영어로 하자는 제안을 하셨다.
+    외우긴 다 욌지만 한국어 처럼 술술 나오진 않는다.
+    그 문제는 매일 가정예배 드리면서 고쳐질 사항이라 신경은 안 써도 된다!
+    기도도 영어로 능통하게 하는 날이 왔으면 좋겠다.
+
+
 ![image](https://www.google.com/imgres?imgurl=http%3A%2F%2Fimage.genie.co.kr%2FY%2FIMAGE%2FIMG_ALBUM%2F080%2F751%2F535%2F80751535_1449033705652_1_600x600.JPG&imgrefurl=http%3A%2F%2Fwww.genie.co.kr%2Fdetail%2FalbumInfo%3Faxnm%3D80751535&docid=DMPlmnoQL1S9HM&tbnid=Z8xNvtExupBA0M%3A&vet=12ahUKEwiT5aSf7_fcAhU_HTQIHcXxBLs4ZBAzKAwwDHoECAEQDQ..i&w=600&h=600&hl=ko-US&bih=474&biw=545&q=%EC%A3%BC%EA%B8%B0%EB%8F%84%EB%AC%B8&ved=2ahUKEwiT5aSf7_fcAhU_HTQIHcXxBLs4ZBAzKAwwDHoECAEQDQ&iact=mrc&uact=8)
 
 # English version
