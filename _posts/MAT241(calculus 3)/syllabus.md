@@ -1,70 +1,69 @@
 ---
 title: "syllabus(MAT241)"
 date: 2018-08-20 00:13:28 -0400
-categories: math, calculus, 수학, 미적분
+categories: math, calculus, 수학, 미적분 3
 ---
 
 
 # Course Outline
-
-I. Vectors 
-   A. Definitions 
-   B. Operations and their properties 
-   C. Representations of lines and planes 
-   D. Applications 
-II. Vector-Valued Functions 
-   A. Definitions and representations 
-   B. Limits 
-   C. Derivatives 
-   D. Integrals 
-   E. Applications 
-III. Functions of Several Variables 
-   A. Representation of surfaces by 
-      1. Contour diagrams (family of level curves) 
-      2. Graphs in three dimensions 
-      3. Appropriate technology 
-   B. Limits and continuity 
-   C. Partial derivatives and their applications 
-   D. Optimization problems 
-IV. Multiple Integrals 
-   A. Visualizing the domain of integration 
-   B. Order of integration 
-   C. Change of variables 
-      1. Cartesian coordinates 
-      2. Polar coordinates 
-      3. Cylindrical coordinates 
-      4. Spherical coordinates 
-   D. Applications 
-V. Vector Fields and Line Integrals 
-   A. Definitions 
-   B. Properties 
-   C. Applications 
-   D. Surface integrals (Green`s Theorem and Stokes` Theorem) 
-   E. Volume integrals (Gauss` Theorem) 
-      2. Directional 
-      3. Gradient and its relationship to level curves 
-      4. Tangent plane 
-   D. Optimization problems 
-      1. Second partial derivative test 
-      2. La grange multiplier methods 
-IV. Multiple Integrals 
-   A. Visualizing the region (plane or solid) of integration 
-   B. Order of integration 
-   C. Change of variables (from Cartesian to) 
-      1. Polar coordinates 
-      2. Cylindrical coordinates 
-      3. Spherical coordinates 
-   D. Applications 
-V. Vector Fields 
-   A. Line integrals 
-      1. Definition and properties 
-      2. Green`s theorem 
-      3. Work done by a vector field over a curve 
-   B. Surface integrals 
-      1. Definition and properties 
-      2. Gauss` divergence theorem 
-      3. Flux of a vector field through a surface 
-   C. Stoke`s theorem
+    I. Vectors 
+       A. Definitions 
+       B. Operations and their properties 
+       C. Representations of lines and planes 
+       D. Applications 
+    II. Vector-Valued Functions 
+       A. Definitions and representations 
+       B. Limits 
+       C. Derivatives 
+       D. Integrals 
+       E. Applications 
+    III. Functions of Several Variables 
+       A. Representation of surfaces by 
+          1. Contour diagrams (family of level curves) 
+          2. Graphs in three dimensions 
+          3. Appropriate technology 
+       B. Limits and continuity 
+       C. Partial derivatives and their applications 
+       D. Optimization problems 
+    IV. Multiple Integrals 
+       A. Visualizing the domain of integration 
+       B. Order of integration 
+       C. Change of variables 
+          1. Cartesian coordinates 
+          2. Polar coordinates 
+          3. Cylindrical coordinates 
+          4. Spherical coordinates 
+       D. Applications 
+    V. Vector Fields and Line Integrals 
+       A. Definitions 
+       B. Properties 
+       C. Applications 
+       D. Surface integrals (Green`s Theorem and Stokes` Theorem) 
+       E. Volume integrals (Gauss` Theorem) 
+          2. Directional 
+          3. Gradient and its relationship to level curves 
+          4. Tangent plane 
+       D. Optimization problems 
+          1. Second partial derivative test 
+          2. La grange multiplier methods 
+    IV. Multiple Integrals 
+       A. Visualizing the region (plane or solid) of integration 
+       B. Order of integration 
+       C. Change of variables (from Cartesian to) 
+          1. Polar coordinates 
+          2. Cylindrical coordinates 
+          3. Spherical coordinates 
+       D. Applications 
+    V. Vector Fields 
+       A. Line integrals 
+          1. Definition and properties 
+          2. Green`s theorem 
+          3. Work done by a vector field over a curve 
+       B. Surface integrals 
+          1. Definition and properties 
+          2. Gauss` divergence theorem 
+          3. Flux of a vector field through a surface 
+       C. Stoke`s theorem
 
 ### 미적분 3 시작
     내일부터 새학기 시작한다...
