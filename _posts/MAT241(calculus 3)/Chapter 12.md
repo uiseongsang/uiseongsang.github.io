@@ -18,9 +18,8 @@ categories: math, calculus, 수학, 미적분 3
         12.6: Cylinders and Quadric Surfaces
 
 # 12.1: Three-Dimensional Coordinate Systems
-    `Cartesian product` is a mathematical operation that returns a set (or product set or simply product) from multiple sets. 
-
-    `The Cartesian product` R x R x R = ![image](https://drive.google.com/open?id=1We9Yti_rEGGkpsJcEthI6R8xJrjGwTB0) is the set of all ordered triples of real numbers and is denoted by R^3.
+> Cartesian product is a mathematical operation that returns a set (or product set or simply product) from multiple sets. 
+>The Cartesian product` R x R x R = ![image](https://drive.google.com/open?id=1We9Yti_rEGGkpsJcEthI6R8xJrjGwTB0) is the set of all ordered triples of real numbers and is denoted by R^3.
     
 > Distance Formula in Three Dimensions {: .red} The distance |P1 P2| between the points P1(x1,y1,z1) and P2(x2,y2,z2) is
 >> ![image](https://drive.google.com/open?id=11PN999rKV4SqJZVsqH-j7zH7YohWk69i)
