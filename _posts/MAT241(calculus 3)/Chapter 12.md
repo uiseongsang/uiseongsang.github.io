@@ -34,5 +34,15 @@ categories: math, calculus, 수학, 미적분 3
 > Definition vector Adiition
     If `u` and `v` are vectors positioned so the initial point of `v` is at the terminal point of `u`, then `sum u` + `v` is the vector from the initial point of `u` to the terminal point of `v`.
 
+It is possible to multiply a vector by a real number c.
 > Definition of Scalar Multiplication
     If c is a scalar and `v` is a vector, then the `scalar multiple` c`v`is the vector whose length is |c| times the length of `v` and whose direction is the same as `v` if c > 0 and is opposite to `v` if c < 0. If c =0 or `v = 0`, then c`v` = 0.
+
+## components
+>   pupose: To introduce a coordinate system and threat vectors algebraically
+
+example of components of a
+a = <a1,a2> or a = <a1,a2,a3>
+Do not confuse notation between <a1,a2> and (a1,a2)
+<a1,a2> for ordered pair that refers to a `vector`
+(a1,a2) that refers to a `point in the plane`
