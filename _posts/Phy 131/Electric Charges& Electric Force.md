@@ -70,3 +70,21 @@ electrostatic equilibrium : The charges are at rest and there is no net force on
 This picture shows us that human has much larger conducotr than the metal alone.
 So the metal, for most practical purposes, is discharged.
 
+#### Charge Polarization
+
+Let say we have a electroscope and a charged rod.
+When the charged road approch to the electroscope, the electroscope is polarized by the charged rod.
+The sea of electrons(negative charge) shift toward the positive rod.
+other hand, protons(positive charge) shift to bottom.
+
+- A charged rod held close to an electroscope causes the leaves to repel each other
+- A positively chared rod held close to --but not touching--a neutral electroscope.
+
+- Charge polarization: A slight scparation of the positive and negative charges in a neutral object.
+Because there's no net charge, the electron sea quickly readjusts when the rod is removed.
+- Charge polarization: the key to understanding how a charged object exerts an attractive force on a neutral object.
+
+> the attractive force on the electrons at the top surface is slightly greater than the repulsive force on the ions at the bottom.
+    attractive force > repulsive force
+
+#### The Electric Dipole

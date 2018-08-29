@@ -6,9 +6,10 @@ categories: physic, 대학물리학, 물리학
 
 An electroscope is a scientific instrument used to detect the presence and magnitude of electric charge on a body. It was the first electrical measuring instrument.
 
-# Investigation #2    
+# Investigation #2 : Charge Diagrams    
     >> intro
         One of the important issues in constructing a charge diagram is knowing the excess charge on an object
+        charge: objects that interact this way to have a property.
 
 ## Three different subatomic particles
     1. Protons (양성자)
@@ -26,4 +27,16 @@ An electroscope is a scientific instrument used to detect the presence and magni
     An insulating material: A meterial on which charge does not move much at all.
         ex) Rubber and plastic.
 
+
+# Investigation #3 : Charging By Friction and Contact
+    >> object
+        To investigate two of the three methods of transferring electric charge to an object.
+## Charging by Friction
+
+Charge the acrylic rod by friction by rubbing it with the paper towel.
+Before I rubbed the acrylic rod with the paper towel, zero excess charge on the paper and the rod.
+
+From the lab, acrylic rod acquires an excess `positive charge` when it is rubbed with a paper towel, and plastic ruler acquires an acquires an excess `negative charge` when rubbed with a paper towel.
+
+## Charging by Contact
 
