@@ -33,7 +33,7 @@ An electroscope is a scientific instrument used to detect the presence and magni
         To investigate two of the three methods of transferring electric charge to an object.
 ## Charging by Friction
 
-Charge the acrylic rod by friction by rubbing it with the paper towel.
+The acrylic rod is charged by rubbing with the paper towel.
 Before I rubbed the acrylic rod with the paper towel, zero excess charge on the paper and the rod.
 
 From the lab, acrylic rod acquires an excess `positive charge` when it is rubbed with a paper towel, and plastic ruler acquires an acquires an excess `negative charge` when rubbed with a paper towel.

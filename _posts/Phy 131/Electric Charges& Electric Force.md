@@ -88,3 +88,17 @@ Because there's no net charge, the electron sea quickly readjusts when the rod i
     attractive force > repulsive force
 
 #### The Electric Dipole
+
+Electric dipole: Two opposite charfes with a slight separation between them.
+
+#### Charging by Induction
+
+Charging by induction: The electroscope has been charged opposite to the rod in a process.
+
+#### Coulomb's Law
+
+Coulomb's law: the force of attraction or repulsion acting along a straight line between two electric charges is directly proportional to the product of the charges and inversely to the square of the distance between them.
+
+전하를 가진 두 물체 사이에 작용하는 힘의 크기는 두 전하의 곱에 비례하고 거리의 제곱에 반비례한다. 같은 극성의 전하는 서로 미는 척력을 다른 극성의 전하는 서로 잡아당기는 인력이 작용한다. 이 법칙은 1785년 프랑스의 물리학자인 C.A.쿨롱이 비틀림저울을 사용한 실험에서 발견되었다.
+[네이버 지식백과] 쿨롱의 법칙 [Coulomb's law, ─法則] (두산백과)
+
