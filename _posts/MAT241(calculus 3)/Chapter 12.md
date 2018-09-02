@@ -54,3 +54,13 @@ Do not confuse notation between <a1,a2> and (a1,a2)
 
 
 12.3 The Dot Product
+
+<figure>
+<img src="/assets/post-img/mat241/12_1.jpg" alt="views">
+<img src="/assets/post-img/mat241/12_2.jpg" alt="views">
+<img src="/assets/post-img/mat241/12_3.jpg" alt="views">
+<img src="/assets/post-img/mat241/12_4.jpg" alt="views">
+<img src="/assets/post-img/mat241/12_5.jpg" alt="views">
+<img src="/assets/post-img/mat241/12_6.jpg" alt="views">
+</figure>
+
