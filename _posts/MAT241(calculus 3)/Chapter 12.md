@@ -53,7 +53,7 @@ Do not confuse notation between <a1,a2> and (a1,a2)
 
 
 
-12.3 The Dot Product
+# 12.3 The Dot Product
 
 <figure>
 <img src="/assets/post-img/mat241/12_1.jpg" alt="views">
@@ -62,5 +62,24 @@ Do not confuse notation between <a1,a2> and (a1,a2)
 <img src="/assets/post-img/mat241/12_4.jpg" alt="views">
 <img src="/assets/post-img/mat241/12_5.jpg" alt="views">
 <img src="/assets/post-img/mat241/12_6.jpg" alt="views">
+<img src="/assets/post-img/mat241/12_7.jpg" alt="views">
 </figure>
 
+## 12.3 Exercises
+
+<figure>
+<img src="/assets/post-img/mat241/12_8.jpg" alt="views">
+<img src="/assets/post-img/mat241/12_10.jpg" alt="views">
+<img src="/assets/post-img/mat241/12_11.jpg" alt="views">
+<img src="/assets/post-img/mat241/12_12.jpg" alt="views">
+<img src="/assets/post-img/mat241/12_13.jpg" alt="views">
+</figure>
+
+# 12.4 The Cross Product
+
+<figure>
+<img src="/assets/post-img/mat241/16_.jpg" alt="views">
+<img src="/assets/post-img/mat241/17_.jpg" alt="views">
+<img src="/assets/post-img/mat241/18_.jpg" alt="views">
+<img src="/assets/post-img/mat241/19_.jpg" alt="views">
+</figure>
