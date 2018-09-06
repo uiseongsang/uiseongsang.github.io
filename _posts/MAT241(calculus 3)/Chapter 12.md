@@ -78,8 +78,8 @@ Do not confuse notation between <a1,a2> and (a1,a2)
 # 12.4 The Cross Product
 
 <figure>
-<img src="/assets/post-img/mat241/16_.jpg" alt="views">
-<img src="/assets/post-img/mat241/17_.jpg" alt="views">
-<img src="/assets/post-img/mat241/18_.jpg" alt="views">
-<img src="/assets/post-img/mat241/19_.jpg" alt="views">
+<img src="/assets/post-img/mat241/12_16_.jpg" alt="views">
+<img src="/assets/post-img/mat241/12_17_.jpg" alt="views">
+<img src="/assets/post-img/mat241/12_18_.jpg" alt="views">
+<img src="/assets/post-img/mat241/12_19_.jpg" alt="views">
 </figure>
